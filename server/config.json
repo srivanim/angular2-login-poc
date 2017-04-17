@@ -1,0 +1,6 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/angular2-poc",
+    "apiUrl": "http://localhost:4000",
+	"secret":"angular 2 secret poc"
+   
+}
